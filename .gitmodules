@@ -1,0 +1,3 @@
+[submodule "extern/bokeh"]
+	path = extern/bokeh
+	url = https://github.com/bokeh/bokeh-notebooks.git
