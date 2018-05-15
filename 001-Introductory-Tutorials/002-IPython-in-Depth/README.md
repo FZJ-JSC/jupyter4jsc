@@ -1,3 +1,7 @@
+# Original Repository
+Please visit:
+    https://github.com/ipython/ipython-in-depth
+
 # IPython in depth tutorial
 
 Try it out on Binder! [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder%2FIndex.ipynb)
