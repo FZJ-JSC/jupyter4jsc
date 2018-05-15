@@ -1,3 +1,7 @@
+## Original Repository
+Please visit:
+    https://github.com/jrjohansson/scientific-python-lectures
+
 Lectures on scientific computing with Python
 ============================================
 
