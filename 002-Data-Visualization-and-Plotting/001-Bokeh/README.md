@@ -1,3 +1,7 @@
+## Original Repository
+Please visit:
+    https://github.com/bokeh/bokeh-notebooks
+
 Bokeh in Jupyter Notebooks
 ==========================
 
